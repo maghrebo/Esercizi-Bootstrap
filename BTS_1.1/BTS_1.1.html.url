@@ -1,2 +1,56 @@
-[InternetShortcut]
-URL=https://github.com/maghrebo/Esercizi-Bootstrap/blob/main/BTS_1.1.html
+<!DOCTYPE html>
+<html lang="it">
+
+    <head>
+        <title>Risposte Domande BootStrap 5</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    </head>
+
+    <body>
+
+        <div class="container-fluid p-5 bg-primary text-white text-center">
+          <h1>Risposta Domande BootStrap 5</h1>
+          <p>Diminuisci quetsa pagina web per visualizzare l'effetto</p> 
+        </div>
+
+        <div class="container mt-5">
+          <div class="row">
+            <div class="col-sm-4">
+              <h3>Risposta 1</h3>
+              <p>Bootstrap è un framework front-end gratuito per uno sviluppo web più rapido e semplice</p>
+              <p>Bootstrap include modelli di progettazione basati su HTML e CSS per tipografia, moduli, pulsanti, tabelle, navigazione, modali, caroselli di immagini e molti altri, oltre a plugin JavaScript opzionali</p>
+              <p>Bootstrap ti dà anche la possibilità di creare facilmente progetti reattivi
+            </p>
+            </div>
+            <div class="col-sm-4">
+              <h3>Risposta 2</h3>
+              <p>&ltmeta name="viewport" content="width=device-width, initial-scale=1"&gt</p>
+              <p>&ltlink href="https://cdn.jsdelivr.net/npm/<br>@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"&gt</p>
+              <p>&ltscript src="https://cdn.jsdelivr.net/npm/<br>bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"&gt&ltscript&gt</p>
+            </div>
+            <div class="col-sm-4">
+              <h3>Risposta 3</h3>        
+              <p>Se non desideri scaricare e ospitare Bootstrap 5 da solo, puoi includerlo da una CDN (Content Delivery Network).</p>
+              <p>molti utenti hanno già scaricato Bootstrap 5 da jsDelivr quando visitano un altro sito. Di conseguenza, verrà caricato dalla cache quando gli utenti visitano il tuo sito, il che comporta tempi di caricamento più rapidi.</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-4">
+              <h3>Risposta 4</h3>
+              <p>La width=device-widthparte imposta la larghezza della pagina in modo che segua la larghezza dello schermo del dispositivo (che varierà a seconda del dispositivo).</p>
+              <p>La initial-scale=1parte imposta il livello di zoom iniziale quando la pagina viene caricata per la prima volta dal browser.</p>
+            </div>
+            <div class="col-sm-4">
+              <h3>Risposta 5</h3>
+              <p>Il .containerclasse fornisce un contenitore reattivo a larghezza fissa</p>
+              <p>Il .container-fluidclasse fornisce un contenitore a larghezza intera , che copre l'intera larghezza del viewport</p>
+            </div>
+          </div>
+        </div>
+
+    </body>
+
+</html>
